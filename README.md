@@ -1,3 +1,5 @@
 # Portfolio-Website-V1
 
-This is my first portfolio website, created with HTML and CSS. I am planning to create multiple versions until the final version, which will include React.js.
+This was created in the fall of 2021, and is considered one of many versions before the final version of my portfolio website. I decided to start this project after reviewing the basics of HTML and CSS in my AP Computer Science Principles course, which gave me a starting point for programming this.
+
+More versions to come soon!
